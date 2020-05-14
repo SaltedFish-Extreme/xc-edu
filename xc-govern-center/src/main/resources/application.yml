@@ -1,0 +1,16 @@
+server:
+  port: ${PORT:50101} #服务端口
+spring:
+  application:
+    name: xc-govern-center #指定服务名
+eureka:
+  client:
+    register-with-eureka: true #服务注册，将自己注册到Eureka服务中
+    fetch-registry: true #从Eureka中获取注册信息
+    serviceUrl: #客户端和服务端交互地址
+      defaultZone: ${EUREKA_SERVER:http://eureka02:50102/eureka/}
+  server:
+    enable-self-preservation: false #不开启自我保护模式
+    eviction-interval-timer-in-ms: 60000 #服务注册表清理间隔
+  instance:
+    hostname: ${EUREKA_DOMAIN:eureka01}

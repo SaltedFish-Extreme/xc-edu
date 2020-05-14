@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="1024" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xc-service-manage-course" />
+        <module name="xc-framework-common" />
+        <module name="xc-service-search" />
+        <module name="xc-framework-utils" />
+        <module name="xc-framework-model" />
+        <module name="xc-service-manage-cms-client" />
+        <module name="xc-govern-center" />
+        <module name="xc-service-api" />
+        <module name="xc-service-manage-cms" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xc-framework-common" target="12.0.1" />
+      <module name="xc-framework-model" target="12.0.1" />
+      <module name="xc-framework-parent" target="12.0.1" />
+      <module name="xc-framework-utils" target="12.0.1" />
+      <module name="xc-govern-center" target="12.0.1" />
+      <module name="xc-service-api" target="12.0.1" />
+      <module name="xc-service-manage-cms" target="12.0.1" />
+      <module name="xc-service-manage-cms-client" target="12.0.1" />
+      <module name="xc-service-manage-course" target="12.0.1" />
+      <module name="xc-service-search" target="12.0.1" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="xc-framework-common" options="-parameters" />
+      <module name="xc-framework-model" options="-parameters" />
+      <module name="xc-framework-utils" options="-parameters" />
+      <module name="xc-govern-center" options="-parameters" />
+      <module name="xc-service-api" options="-parameters" />
+      <module name="xc-service-manage-cms" options="-parameters" />
+      <module name="xc-service-manage-cms-client" options="-parameters" />
+      <module name="xc-service-manage-course" options="-parameters" />
+      <module name="xc-service-search" options="-parameters" />
+    </option>
+  </component>
+</project>
