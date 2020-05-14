@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+    <title>视频播放</title>
+    <link href="/plugins/videojs/video-js.css" rel="stylesheet">
+</head>
+<body>
+<video class="video-js vjs-default-skin vjs-big-play-centered" controls height=600 id=example-video poster="http://127.0.0.1:90/video/add.jpg"
+       width=800>
+    <source
+            src="http://video.xuecheng.com/video/hls/lucene.m3u8"
+            type="application/x-mpegURL">
+</video>
+<input onClick="switchvideo()" type="button" value="switch"/>
+
+<script src="/plugins/videojs/video.js"></script>
+<script src="/plugins/videojs/videojs-contrib-hls.js"></script>
+<script>
+    var player = videojs('example-video');
+
+    //player.play();
+
+    function switchvideo() {
+        player.src({
+            src: 'http://video.xuecheng.com/video/lucene.m3u8',
+            type: 'application/x-mpegURL',
+            withCredentials: true
+        });
+        player.play();
+    }
+</script>
+
+</body>
+</html>

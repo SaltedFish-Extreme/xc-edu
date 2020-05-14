@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd6f70ef-b367-4dc1-9ab3-a4972a9c1ce4" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xc-ui-pc-static-portal" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>picker</find>
+      <find>upload</find>
+      <find>fileList</find>
+      <find>uploadFile</find>
+      <find>fileMd5</find>
+      <find>alert(</find>
+      <find>uploader</find>
+      <find>上传文件失败，请刷新页面重试</find>
+      <find>loginFormVisible</find>
+      <find>login</find>
+      <find>user.</find>
+      <find>getActiveUser</find>
+      <find>checkActiveUser</find>
+      <find>logout</find>
+      <find>getUserSession</find>
+      <find>user</find>
+      <find>getUserInfoFromJwt</find>
+      <find>欢迎</find>
+      <find>setUserSession</find>
+      <find>learnstatus</find>
+      <find>queryCompanyStat</find>
+      <find>showlogin</find>
+      <find>delUserSession</find>
+      <find>createOrder</find>
+      <find>getLearnstatus</find>
+      <find>popup-box</find>
+      <find>headVm</find>
+      <find>buy</find>
+      <find>Message</find>
+      <find>#include</find>
+    </findStrings>
+    <dirStrings>
+      <dir>F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal</dir>
+    </dirStrings>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ZF3zXL1U2IwOWhlOJXKK5ihS8e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebProjects\xc-ui-pc-static-portal\include" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\js" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\include" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\plugins\webuploader" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd6f70ef-b367-4dc1-9ab3-a4972a9c1ce4" name="Default" comment="" />
+      <created>1522380484107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522380484107</updated>
+      <workItem from="1522380485408" duration="3321000" />
+      <workItem from="1522508971246" duration="774000" />
+      <workItem from="1523427826704" duration="1327000" />
+      <workItem from="1524130929472" duration="1877000" />
+      <workItem from="1524879081123" duration="42000" />
+      <workItem from="1525783769466" duration="7861000" />
+      <workItem from="1525855065000" duration="1553000" />
+      <workItem from="1525875545751" duration="590000" />
+      <workItem from="1525919502156" duration="32220000" />
+      <workItem from="1526894397864" duration="9476000" />
+      <workItem from="1526977959394" duration="13563000" />
+      <workItem from="1527237696038" duration="16456000" />
+      <workItem from="1527865495024" duration="667000" />
+      <workItem from="1527923954209" duration="1626000" />
+      <workItem from="1528153794416" duration="4484000" />
+      <workItem from="1528173396953" duration="621000" />
+      <workItem from="1528190447746" duration="8000" />
+      <workItem from="1528249696513" duration="770000" />
+      <workItem from="1584421280653" duration="103000" />
+      <workItem from="1584421433122" duration="301000" />
+      <workItem from="1584421810817" duration="32000" />
+      <workItem from="1584421885442" duration="1683000" />
+      <workItem from="1584423599297" duration="3292000" />
+      <workItem from="1584428126352" duration="388000" />
+      <workItem from="1584428793775" duration="40000" />
+      <workItem from="1584611535175" duration="12000" />
+      <workItem from="1584611577262" duration="1387000" />
+      <workItem from="1584615993395" duration="7684000" />
+      <workItem from="1584662148031" duration="602000" />
+      <workItem from="1584874178384" duration="1889000" />
+      <workItem from="1584926524423" duration="1776000" />
+      <workItem from="1585135169820" duration="2827000" />
+      <workItem from="1585180629656" duration="639000" />
+      <workItem from="1585187270772" duration="34000" />
+      <workItem from="1585360728412" duration="10000" />
+      <workItem from="1585708188992" duration="1858000" />
+      <workItem from="1585789975436" duration="913000" />
+      <workItem from="1586355415874" duration="19000" />
+      <workItem from="1586518394610" duration="24000" />
+      <workItem from="1586524629320" duration="3000" />
+      <workItem from="1586524666090" duration="16000" />
+      <workItem from="1586850327437" duration="3000" />
+      <workItem from="1586851226959" duration="1676000" />
+      <workItem from="1586970982891" duration="26000" />
+      <workItem from="1588567964694" duration="408000" />
+      <workItem from="1588753021692" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="177" key="#Usage_Scope" timestamp="1584421667034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" key="#Usage_Scope/0.0.1920.1040@0.0.1920.1040" timestamp="1584421667034" />
+    <state x="413" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585711419532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="413" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585711419532" />
+    <state x="773" y="274" key="FileChooserDialogImpl" timestamp="1584622181778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584622181778" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1585140487731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585140487731" />
+    <state x="714" y="362" key="cloudConfig.SelfSettingsDialog" timestamp="1584423661169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="362" key="cloudConfig.SelfSettingsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584423661169" />
+    <state x="635" y="365" width="718" height="310" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584622184410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="635" y="365" width="718" height="310" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584622184410" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584622175430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584622175430" />
+  </component>
+</project>
