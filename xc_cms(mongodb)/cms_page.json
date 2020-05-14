@@ -1,0 +1,602 @@
+{ 
+    "_id" : ObjectId("5a754adf6abb500ad05688d9"), 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "index.html", 
+    "pageAliase" : "首页", 
+    "pageWebPath" : "/index.html", 
+    "pagePhysicalPath" : "F:\\develop\\xc_portal_static\\", 
+    "pageType" : "0", 
+    "pageCreateTime" : ISODate("2018-02-03T05:37:53.256+0000"), 
+    "templateId" : "5a962b52b00ffc514038faf7", 
+    "htmlFileId" : "5a7c1c54d019f14d90a1fb23", 
+    "dataUrl" : "www.51jg.xyz", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5a795ac7dd573c04508f3a56"), 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "index_banner.html", 
+    "pageAliase" : "轮播图", 
+    "pageWebPath" : "/include/index_banner.html", 
+    "pagePhysicalPath" : "include\\", 
+    "pageType" : "0", 
+    "pageCreateTime" : ISODate("2018-02-06T07:34:21.255+0000"), 
+    "templateId" : "5a962bf8b00ffc514038fafa", 
+    "htmlFileId" : "5e7eeb43fbcf5231ecf7372f", 
+    "dataUrl" : "http://localhost:31001/cms/page/get/5a7be667d019f14d90a1fb1c", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5a7be667d019f14d90a1fb1c"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "index_category.html", 
+    "pageAliase" : "分类导航", 
+    "pageWebPath" : "/include/index_category.html", 
+    "pagePhysicalPath" : "F:\\develop\\xc_portal_static\\include\\", 
+    "pageType" : "0", 
+    "pageCreateTime" : ISODate("2018-02-08T05:55:07.590+0000"), 
+    "templateId" : "5a962bf8b00ffc514038fafa", 
+    "htmlFileId" : "5d55384458935f1d18af6320", 
+    "dataUrl" : "http://localhost:31001/cms/page/get/5a7be667d019f14d90a1fb1c"
+}
+{ 
+    "_id" : ObjectId("5a92141cb00ffc5a448ff1a0"), 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "4028e581617f945f01617f9dabc40000.html", 
+    "pageAliase" : "Bootstrap开发框架", 
+    "pageWebPath" : "/course/detail/", 
+    "pagePhysicalPath" : "/course/detail/", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-02-25T01:37:25.974+0000"), 
+    "templateId" : "5ad9a24d68db5239b8fef199", 
+    "pageParams" : [
+        {
+            "pageParamName" : "courseid", 
+            "pageParamValue" : "4028e581617f945f01617f9dabc40000"
+        }
+    ], 
+    "htmlFileId" : "5a94d6c6b00ffc3ab4bfa4f4", 
+    "dataUrl" : "http://localhost:31200/course/courseview/4028e581617f945f01617f9dabc40000", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5a94d79cb00ffc3ab4bfa4f6"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "4028e581617f945f01617f9dabc40000.html", 
+    "pageAliase" : "课程详情页面", 
+    "pageWebPath" : "/course/", 
+    "pagePhysicalPath" : "F:\\develop\\xc_portal_static\\course\\detail\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-02-27T03:59:21.353+0000"), 
+    "templateId" : "5a925be7b00ffc4b3c1578b5", 
+    "pageParams" : [
+        {
+            "pageParamName" : "courseid", 
+            "pageParamValue" : "4028e581617f945f01617f9dabc40000"
+        }
+    ], 
+    "htmlFileId" : "5aed94530e66185b64804c12"
+}
+{ 
+    "_id" : ObjectId("5a96114fb00ffc4b44f63e06"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "4028e58161bcf7f40161bcf8b77c0000.html", 
+    "pageAliase" : "课程详情页面", 
+    "pageWebPath" : "/course/", 
+    "pagePhysicalPath" : "F:\\develop\\xc_portal_static\\course\\detail\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-02-28T02:17:45.785+0000"), 
+    "templateId" : "5a925be7b00ffc4b3c1578b5", 
+    "pageParams" : [
+        {
+            "pageParamName" : "courseid", 
+            "pageParamValue" : "4028e58161bcf7f40161bcf8b77c0000"
+        }
+    ], 
+    "htmlFileId" : "5a962a07b00ffc514038faef"
+}
+{ 
+    "_id" : ObjectId("5a961ff6b00ffc5a9cdebaea"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "4028e58161bd22e60161bd23672a0001.html", 
+    "pageAliase" : "课程详情页面", 
+    "pageWebPath" : "/course/", 
+    "pagePhysicalPath" : "F:\\develop\\xc_portal_static\\course\\detail\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-02-28T03:20:20.988+0000"), 
+    "templateId" : "5a925be7b00ffc4b3c1578b5", 
+    "pageParams" : [
+        {
+            "pageParamName" : "courseid", 
+            "pageParamValue" : "4028e58161bd22e60161bd23672a0001"
+        }
+    ], 
+    "htmlFileId" : "5a962a0eb00ffc514038faf1"
+}
+{ 
+    "_id" : ObjectId("5a9620b9b00ffc5a9cdebaed"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "4028e58161bd3b380161bd3bcd2f0000.html", 
+    "pageAliase" : "课程详情页面", 
+    "pageWebPath" : "/course/", 
+    "pagePhysicalPath" : "F:\\develop\\xc_portal_static\\course\\detail\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-02-28T03:28:02.459+0000"), 
+    "templateId" : "5a925be7b00ffc4b3c1578b5", 
+    "pageParams" : [
+        {
+            "pageParamName" : "courseid", 
+            "pageParamValue" : "4028e58161bd3b380161bd3bcd2f0000"
+        }
+    ], 
+    "htmlFileId" : "5afc0e250e661870603bc0ed"
+}
+{ 
+    "_id" : ObjectId("5abefd525b05aa293098fca6"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "index2.html", 
+    "pageAliase" : "ccc", 
+    "pageWebPath" : "//fdsfs", 
+    "pageParameter" : "", 
+    "pagePhysicalPath" : "d:/html/", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-03-31T03:14:49.771+0000"), 
+    "templateId" : "5abf57965b05aa2ebcfce6d1", 
+    "htmlFileId" : "5abf5ce45b05aa073c7e5172", 
+    "dataUrl" : "http://localhost:31001/cms/user/get/5abefd525b05aa293098fca6"
+}
+{ 
+    "_id" : ObjectId("5ad92e9068db52404cad0f79"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "preview_402885816243d2dd016243f24c030002.html", 
+    "pageAliase" : "课程预览页面", 
+    "pageWebPath" : "/coursepre/", 
+    "pagePhysicalPath" : "F:/eduprojects/xc-edu-snapshotv1.0/xc-ui-pc-static-portal/course/preview/", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-05-26T08:49:27.909+0000"), 
+    "templateId" : "5aec5dd70e661808240ab7a6", 
+    "htmlFileId" : "5b091f97c5e9b7070c94a2bb", 
+    "dataUrl" : "http://localhost:40200/portalview/course/getpre/402885816243d2dd016243f24c030002"
+}
+{ 
+    "_id" : ObjectId("5ad92f5468db52404cad0f7c"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "402885816243d2dd016243f24c030002.html", 
+    "pageAliase" : "课程详情页面", 
+    "pageWebPath" : "/course/", 
+    "pagePhysicalPath" : "F:/eduprojects/xc-edu-snapshotv1.0/xc-ui-pc-static-portal/course/detail/", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-05-26T08:49:33.332+0000"), 
+    "templateId" : "5aec5dd70e661808240ab7a6", 
+    "htmlFileId" : "5b091f97c5e9b7070c94a2bb"
+}
+{ 
+    "_id" : ObjectId("5ad94b9168db5243ec846e8e"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "preview_4028858162e0bc0a0162e0bfdf1a0000.html", 
+    "pageAliase" : "课程预览页面", 
+    "pageWebPath" : "/coursepre/", 
+    "pagePhysicalPath" : "F:\\develop\\xc_portal_static\\course\\preview\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-04-20T02:08:17.621+0000"), 
+    "templateId" : "5a925be7b00ffc4b3c1578b5", 
+    "htmlFileId" : "5ad94b9168db5243ec846e8f", 
+    "dataUrl" : "http://localhost:40200/portalview/course/get/4028858162e0bc0a0162e0bfdf1a0000"
+}
+{ 
+    "_id" : ObjectId("5ad94ba368db5243ec846e91"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "4028858162e0bc0a0162e0bfdf1a0000.html", 
+    "pageAliase" : "课程详情页面", 
+    "pageWebPath" : "/course/", 
+    "pagePhysicalPath" : "F:\\develop\\xc_portal_static\\course\\detail\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-04-20T02:08:35.601+0000"), 
+    "templateId" : "5a925be7b00ffc4b3c1578b5", 
+    "htmlFileId" : "5ad94b9168db5243ec846e8f"
+}
+{ 
+    "_id" : ObjectId("5ad99fb768db523ef42cd02d"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "preview_123.html", 
+    "pageAliase" : "课程预览页面", 
+    "pageWebPath" : "/coursepre/", 
+    "pagePhysicalPath" : "F:\\\\develop\\\\xc_portal_static\\\\course\\\\preview\\\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-04-20T08:07:17.866+0000"), 
+    "templateId" : "5ad9a24d68db5239b8fef199", 
+    "htmlFileId" : "5ada955f68db524a909d30a9", 
+    "dataUrl" : "http://localhost:40200/portalview/course/get/123"
+}
+{ 
+    "_id" : ObjectId("5ada939168db524a909d30a8"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "preview_297e7c7c62b888f00162b8a7dec20000.html", 
+    "pageAliase" : "课程预览页面", 
+    "pageWebPath" : "/coursepre/", 
+    "pagePhysicalPath" : "F:\\\\develop\\\\xc_portal_static\\\\course\\\\preview\\\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-05-05T11:22:56.021+0000"), 
+    "templateId" : "5aec5dd70e661808240ab7a6", 
+    "htmlFileId" : "5aed94100e66185b64804c0f", 
+    "dataUrl" : "http://localhost:40200/portalview/course/get/297e7c7c62b888f00162b8a7dec20000"
+}
+{ 
+    "_id" : ObjectId("5ada97cb68db526124fd79c3"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "preview_297e7c7c62b888f00162b8a965510001.html", 
+    "pageAliase" : "课程预览页面", 
+    "pageWebPath" : "/coursepre/", 
+    "pagePhysicalPath" : "F:\\\\develop\\\\xc_portal_static\\\\course\\\\preview\\\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-04-21T01:45:47.870+0000"), 
+    "templateId" : "5ad9a24d68db5239b8fef199", 
+    "htmlFileId" : "5ae061b60e6618560cfde9a9", 
+    "dataUrl" : "http://localhost:40200/portalview/course/get/297e7c7c62b888f00162b8a965510001"
+}
+{ 
+    "_id" : ObjectId("5adaa4d868db526288d3df3b"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "297e7c7c62b888f00162b8a965510001.html", 
+    "pageAliase" : "课程详情页面", 
+    "pageWebPath" : "/course/", 
+    "pagePhysicalPath" : "F:\\\\develop\\\\xc_portal_static\\\\course\\\\detail\\\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-04-21T02:41:28.471+0000"), 
+    "templateId" : "5ad9a24d68db5239b8fef199", 
+    "htmlFileId" : "5ae061b60e6618560cfde9a9"
+}
+{ 
+    "_id" : ObjectId("5ae193170e66183ee06f71c5"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "297e7c7c62b888f00162b8a7dec20000.html", 
+    "pageAliase" : "课程详情页面", 
+    "pageWebPath" : "/course/", 
+    "pagePhysicalPath" : "F:\\\\develop\\\\xc_portal_static\\\\course\\\\detail\\\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-04-26T08:51:35.312+0000"), 
+    "templateId" : "5ad9a24d68db5239b8fef199", 
+    "htmlFileId" : "5ae192fa0e66183ee06f71c3"
+}
+{ 
+    "_id" : ObjectId("5ae1973b0e6618644cd7a6fa"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "preview_297e7c7c62b8aa9d0162b8ab13910000.html", 
+    "pageAliase" : "课程预览页面", 
+    "pageWebPath" : "/coursepre/", 
+    "pagePhysicalPath" : "F:\\\\develop\\\\xc_portal_static\\\\course\\\\preview\\\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-04-26T09:09:15.212+0000"), 
+    "templateId" : "5ad9a24d68db5239b8fef199", 
+    "htmlFileId" : "5ae1973b0e6618644cd7a6fb", 
+    "dataUrl" : "http://localhost:40200/portalview/course/get/297e7c7c62b8aa9d0162b8ab13910000"
+}
+{ 
+    "_id" : ObjectId("5ae1979f0e6618644cd7a6fd"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "297e7c7c62b8aa9d0162b8ab13910000.html", 
+    "pageAliase" : "课程详情页面", 
+    "pageWebPath" : "/course/", 
+    "pagePhysicalPath" : "F:\\\\develop\\\\xc_portal_static\\\\course\\\\detail\\\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-04-26T09:10:55.612+0000"), 
+    "templateId" : "5ad9a24d68db5239b8fef199", 
+    "htmlFileId" : "5ae1973b0e6618644cd7a6fb"
+}
+{ 
+    "_id" : ObjectId("5aed94530e66185b64804c11"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "preview_4028e581617f945f01617f9dabc40000.html", 
+    "pageAliase" : "课程预览页面", 
+    "pageWebPath" : "/coursepre/", 
+    "pagePhysicalPath" : "F:\\\\develop\\\\xc_portal_static\\\\course\\\\preview\\\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-05-05T11:24:03.619+0000"), 
+    "templateId" : "5aec5dd70e661808240ab7a6", 
+    "htmlFileId" : "5aed94530e66185b64804c12", 
+    "dataUrl" : "http://localhost:40200/portalview/course/get/4028e581617f945f01617f9dabc40000"
+}
+{ 
+    "_id" : ObjectId("5af942190e661827d8e2f5e3"), 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage", 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "preview_4028e58161bd3b380161bd3bcd2f0000.html", 
+    "pageAliase" : "课程预览页面", 
+    "pageWebPath" : "/coursepre/", 
+    "pagePhysicalPath" : "F:\\\\develop\\\\xc_portal_static\\\\course\\\\preview\\\\", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2018-05-16T10:55:33.276+0000"), 
+    "templateId" : "5aec5dd70e661808240ab7a6", 
+    "htmlFileId" : "5afc0e250e661870603bc0ed", 
+    "dataUrl" : "http://localhost:40200/portalview/course/getpre/4028e58161bd3b380161bd3bcd2f0000"
+}
+{ 
+    "_id" : ObjectId("5d49796d58935f18c8643531"), 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "123456789", 
+    "pageAliase" : "123", 
+    "pageWebPath" : "213", 
+    "pagePhysicalPath" : "123", 
+    "pageCreateTime" : ISODate("2019-08-06T12:58:21.148+0000"), 
+    "templateId" : "5a962bf8b00ffc514038fafa", 
+    "pageParams" : [
+        {
+            "pageParamName" : "param111", 
+            "pageParamValue" : "1111"
+        }
+    ], 
+    "dataUrl" : "123", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5d4fc86d58935f17149b23df"), 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "轮播图测试20190814.html", 
+    "pageAliase" : "测试002", 
+    "pageWebPath" : "测试002", 
+    "pageParameter" : "", 
+    "pagePhysicalPath" : "course\\preview\\", 
+    "pageType" : "0", 
+    "pageCreateTime" : ISODate("2019-08-11T07:42:44.130+0000"), 
+    "templateId" : "5abf2a8f5b05aa2ebcfce6b5", 
+    "htmlFileId" : "5d55384458935f1d18af6320", 
+    "dataUrl" : "http://localhost:31001/cms/config/getmodel/5d52f53c8c80b031d8c610d3", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5d4fd4aa58935f32fca588dd"), 
+    "siteId" : "102", 
+    "pageName" : "测试004", 
+    "pageAliase" : "测试004", 
+    "pageWebPath" : "测试004", 
+    "pageParameter" : "", 
+    "pagePhysicalPath" : "测试004", 
+    "pageType" : "0", 
+    "pageCreateTime" : ISODate("2019-08-11T08:40:31.708+0000"), 
+    "templateId" : "5a962bf8b00ffc514038fafa", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5d4ffc1758935f304482691b"), 
+    "siteId" : "102", 
+    "pageName" : "测试dataUrl", 
+    "pageAliase" : "测试dataUrl", 
+    "pageWebPath" : "测试dataUrl", 
+    "pageParameter" : "", 
+    "pagePhysicalPath" : "测试dataUrl", 
+    "pageType" : "0", 
+    "pageCreateTime" : ISODate("2019-08-11T11:28:45.499+0000"), 
+    "templateId" : "5a962bf8b00ffc514038fafa", 
+    "dataUrl" : "测试dataUrl", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5d4ffc7658935f304482691c"), 
+    "siteId" : "102", 
+    "pageName" : "测试dataUrl2", 
+    "pageAliase" : "测试dataUrl2", 
+    "pageWebPath" : "测试dataUrl2", 
+    "pageParameter" : "", 
+    "pagePhysicalPath" : "测试dataUrl2", 
+    "pageType" : "0", 
+    "pageCreateTime" : ISODate("2019-08-11T11:30:45.373+0000"), 
+    "templateId" : "5a962bf8b00ffc514038fafa", 
+    "dataUrl" : "测试dataUrl2", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5d4ffce458935f304482691d"), 
+    "siteId" : "102", 
+    "pageName" : "测试dataurl03", 
+    "pageAliase" : "测试dataurl03", 
+    "pageWebPath" : "测试dataurl03", 
+    "pageParameter" : "", 
+    "pagePhysicalPath" : "测试dataurl03", 
+    "pageType" : "0", 
+    "pageCreateTime" : ISODate("2019-08-11T11:32:22.712+0000"), 
+    "templateId" : "5a962bf8b00ffc514038fafa", 
+    "dataUrl" : "测试dataurl03", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5ddbe256fea78f496c4c3ee0"), 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "测试页面1", 
+    "pageAliase" : "测试页面1", 
+    "pageWebPath" : "1111", 
+    "pageParameter" : "测试页面", 
+    "pagePhysicalPath" : "测试页面1", 
+    "pageType" : "string", 
+    "pageTemplate" : "string", 
+    "pageHtml" : "测试页面", 
+    "pageStatus" : "测试页面", 
+    "templateId" : "5a962bf8b00ffc514038fafa", 
+    "htmlFileId" : "测试页面", 
+    "dataUrl" : "123456789", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5ddbffd7fea78f69b862eabc"), 
+    "siteId" : "102", 
+    "pageName" : "测试20191126", 
+    "pageAliase" : "测试20191126", 
+    "pageWebPath" : "测试20191126/ALL", 
+    "pagePhysicalPath" : "测试20191126/ALL", 
+    "pageType" : "0", 
+    "pageCreateTime" : ISODate("2019-11-25T16:22:18.028+0000"), 
+    "templateId" : "5a962b52b00ffc514038faf7", 
+    "dataUrl" : "测试20191126/ALL", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5df519768346630930f28962"), 
+    "siteId" : "5b30cba5f58b4411fc6cb1e5", 
+    "pageName" : "4028e581617f945f01617f9dabc40000.html", 
+    "pageAliase" : "Bootstrap开发框架", 
+    "pageWebPath" : "/course/detail/", 
+    "pagePhysicalPath" : "/course/detail/", 
+    "templateId" : "5abf57965b05aa2ebcfce6d1", 
+    "htmlFileId" : "5ea010a25e5f63734c53b0dc", 
+    "dataUrl" : "http://localhost:31200/course/courseview/4028e581617f945f01617f9dabc40000", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5df53bac834663234c25e858"), 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "297e7c7c62b888f00162b8a7dec20000.html", 
+    "pageAliase" : "test_java基础33", 
+    "pageWebPath" : "/course/detail/", 
+    "pagePhysicalPath" : "/course/detail/", 
+    "templateId" : "5ad9a24d68db5239b8fef199", 
+    "dataUrl" : "http://localhost:31200/course/courseview/297e7c7c62b888f00162b8a7dec20000", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5e4168374af3c22a88246c19"), 
+    "siteId" : "5b30cba5f58b4411fc6cb1e5", 
+    "pageName" : "297e7c7c62b8aa9d0162b8accd4c0003.html", 
+    "pageAliase" : "java基础4", 
+    "pageWebPath" : "/course/detail/", 
+    "pagePhysicalPath" : "/course/detail/", 
+    "templateId" : "5abf57965b05aa2ebcfce6d1", 
+    "htmlFileId" : "5e8dd69d45b0f03dd6c7ee21", 
+    "dataUrl" : "http://localhost:31200/course/courseview/297e7c7c62b8aa9d0162b8accd4c0003", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5e4c45b84af3c215c8bf7b46"), 
+    "siteId" : "5b30cba5f58b4411fc6cb1e5", 
+    "pageName" : "4028e58161bcf7f40161bcf8b77c0000.html", 
+    "pageAliase" : "spring cloud实战", 
+    "pageWebPath" : "/course/detail/", 
+    "pagePhysicalPath" : "/course/detail/", 
+    "templateId" : "5abf57965b05aa2ebcfce6d1", 
+    "htmlFileId" : "5ea010943ecd890c5df23289", 
+    "dataUrl" : "http://localhost:31200/course/courseview/4028e58161bcf7f40161bcf8b77c0000", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5e4c45d84af3c215c8bf7b4b"), 
+    "siteId" : "5b30cba5f58b4411fc6cb1e5", 
+    "pageName" : "4028e58161bd22e60161bd23672a0001.html", 
+    "pageAliase" : "Javascript之VueJS", 
+    "pageWebPath" : "/course/detail/", 
+    "pagePhysicalPath" : "/course/detail/", 
+    "templateId" : "5ad9a24d68db5239b8fef199", 
+    "htmlFileId" : "5e4c45d84af3c215c8bf7b4c", 
+    "dataUrl" : "http://localhost:31200/course/courseview/4028e58161bd22e60161bd23672a0001", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5e4c45eb4af3c215c8bf7b4e"), 
+    "siteId" : "5b30cba5f58b4411fc6cb1e5", 
+    "pageName" : "4028e58161bd3b380161bd3bcd2f0000.html", 
+    "pageAliase" : "Redis从入门到项目实战", 
+    "pageWebPath" : "/course/detail/", 
+    "pagePhysicalPath" : "/course/detail/", 
+    "templateId" : "5abf57965b05aa2ebcfce6d1", 
+    "htmlFileId" : "5ea011933ecd890c5df2328d", 
+    "dataUrl" : "http://localhost:31200/course/courseview/4028e58161bd3b380161bd3bcd2f0000", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5e4c45f54af3c215c8bf7b51"), 
+    "siteId" : "5b30cba5f58b4411fc6cb1e5", 
+    "pageName" : "4028858162e0bc0a0162e0bfdf1a0000.html", 
+    "pageAliase" : "人工智能+python", 
+    "pageWebPath" : "/course/detail/", 
+    "pagePhysicalPath" : "/course/detail/", 
+    "templateId" : "5abf57965b05aa2ebcfce6d1", 
+    "htmlFileId" : "5ea010ac3ecd890c5df2328b", 
+    "dataUrl" : "http://localhost:31200/course/courseview/4028858162e0bc0a0162e0bfdf1a0000", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5e4c45fa4af3c215c8bf7b54"), 
+    "siteId" : "5b30cba5f58b4411fc6cb1e5", 
+    "pageName" : "402885816243d2dd016243f24c030002.html", 
+    "pageAliase" : "大数据", 
+    "pageWebPath" : "/course/detail/", 
+    "pagePhysicalPath" : "/course/detail/", 
+    "templateId" : "5ad9a24d68db5239b8fef199", 
+    "htmlFileId" : "5e4c45fb4af3c215c8bf7b55", 
+    "dataUrl" : "http://localhost:31200/course/courseview/402885816243d2dd016243f24c030002", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5e4c46004af3c215c8bf7b57"), 
+    "siteId" : "5b30cba5f58b4411fc6cb1e5", 
+    "pageName" : "297e7c7c62b8aa9d0162b8ab13910000.html", 
+    "pageAliase" : "java基础3", 
+    "pageWebPath" : "/course/detail/", 
+    "pagePhysicalPath" : "/course/detail/", 
+    "templateId" : "5ad9a24d68db5239b8fef199", 
+    "dataUrl" : "http://localhost:31200/course/courseview/297e7c7c62b8aa9d0162b8ab13910000", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5e4c46064af3c215c8bf7b58"), 
+    "siteId" : "5b30cba5f58b4411fc6cb1e5", 
+    "pageName" : "297e7c7c62b888f00162b8a965510001.html", 
+    "pageAliase" : "test_java基础", 
+    "pageWebPath" : "/course/detail/", 
+    "pagePhysicalPath" : "/course/detail/", 
+    "templateId" : "5ad9a24d68db5239b8fef199", 
+    "dataUrl" : "http://localhost:31200/course/courseview/297e7c7c62b888f00162b8a965510001", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5e4c460b4af3c215c8bf7b59"), 
+    "siteId" : "5b30cba5f58b4411fc6cb1e5", 
+    "pageName" : "297e7c7c62b888f00162b8a7dec20000.html", 
+    "pageAliase" : "test_java基础33", 
+    "pageWebPath" : "/course/detail/", 
+    "pagePhysicalPath" : "/course/detail/", 
+    "templateId" : "5abf57965b05aa2ebcfce6d1", 
+    "htmlFileId" : "5e9ed93f5162097d8beaa35a", 
+    "dataUrl" : "http://localhost:31200/course/courseview/297e7c7c62b888f00162b8a7dec20000", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5e7eecc7fbcf5231ecf73733"), 
+    "siteId" : "5a751fab6abb5044e0d19ea1", 
+    "pageName" : "1", 
+    "pageAliase" : "1", 
+    "pageWebPath" : "1", 
+    "pageParameter" : "", 
+    "pagePhysicalPath" : "1", 
+    "pageType" : "1", 
+    "pageCreateTime" : ISODate("2020-03-28T06:20:45.919+0000"), 
+    "templateId" : "5a962bf8b00ffc514038fafa", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
+{ 
+    "_id" : ObjectId("5ea0101b5e5f63734c53b0db"), 
+    "siteId" : "5b30cba5f58b4411fc6cb1e5", 
+    "pageName" : "2c91a061712093300171209647200001.html", 
+    "pageAliase" : "咸鱼培训课", 
+    "pageWebPath" : "/course/detail/", 
+    "pagePhysicalPath" : "/course/detail/", 
+    "templateId" : "5abf57965b05aa2ebcfce6d1", 
+    "htmlFileId" : "5ea010203ecd890c5df23287", 
+    "dataUrl" : "http://localhost:31200/course/courseview/2c91a061712093300171209647200001", 
+    "_class" : "com.xuecheng.framework.domain.cms.CmsPage"
+}
